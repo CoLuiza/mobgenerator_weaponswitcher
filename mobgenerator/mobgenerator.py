@@ -64,7 +64,7 @@ class MobGenerator:
             "trackCount": self.tracks,
             "enemies": [enemy.get_representation() for enemy in self.enemies]
         }
-        file.write(json.dumps(output_dict))
+        file.write(json.dumps(output_dict,indent=4))
         file.close()
         print("File generated successfully")
 
@@ -109,7 +109,7 @@ class MobGenerator:
     def _load_from_level_sheet(self):
         self.enemies = list()
         start_char = ord("A")
-        for track in range(0, self.tracks + 1):
+        for track in range(0, self.tracks):
             current_char = chr(start_char + track)
             for timestamp in range(1, self._level_sheet.max_row + 1):
                 raw_enemy = self._level_sheet[f"{current_char}{timestamp}"].value
