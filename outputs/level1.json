@@ -1,1 +1,17 @@
-{"index": 5, "trackCount": 4, "enemies": [{"health": {"arrow": 2.0, "bullet": 1.0, "special": 1.0}, "speed": 2.0, "track": 0, "timestamp": 0.6, "resourcePath": "EnemyPrefabs/Arrow Enemies/Bee/Bee Arrow"}, {"health": {"arrow": 2.0, "bullet": 1.0, "special": 1.0}, "speed": 2.0, "track": 0, "timestamp": 1.8, "resourcePath": "EnemyPrefabs/Arrow Enemies/Bee/Bee Arrow"}, {"health": {"arrow": 2.0, "bullet": 1.0, "special": 1.0}, "speed": 2.0, "track": 0, "timestamp": 2.1, "resourcePath": "EnemyPrefabs/Arrow Enemies/Bee/Bee Arrow"}, {"health": {"arrow": 2.0, "bullet": 1.0, "special": 1.0}, "speed": 2.0, "track": 0, "timestamp": 5.1, "resourcePath": "EnemyPrefabs/Arrow Enemies/Bee/Bee Arrow"}, {"health": {"arrow": 1.0, "bullet": 2.0, "special": 1.0}, "speed": 2.0, "track": 1, "timestamp": 0.9, "resourcePath": "EnemyPrefabs/Arrow Enemies/Lady Bird/Lady Bird Arrow"}, {"health": {"arrow": 1.0, "bullet": 2.0, "special": 1.0}, "speed": 2.0, "track": 1, "timestamp": 2.7, "resourcePath": "EnemyPrefabs/Arrow Enemies/Lady Bird/Lady Bird Arrow"}, {"health": {"arrow": 1.0, "bullet": 2.0, "special": 1.0}, "speed": 2.0, "track": 1, "timestamp": 4.2, "resourcePath": "EnemyPrefabs/Arrow Enemies/Lady Bird/Lady Bird Arrow"}, {"health": {"arrow": 2.0, "bullet": 1.0, "special": 1.0}, "speed": 2.0, "track": 1, "timestamp": 5.4, "resourcePath": "EnemyPrefabs/Arrow Enemies/Bee/Bee Arrow"}, {"health": {"arrow": 1.0, "bullet": 2.0, "special": 3.0}, "speed": 2.0, "track": 2, "timestamp": 1.2, "resourcePath": "EnemyPrefabs/Arrow Enemies/Bee/Bee Arrow"}, {"health": {"arrow": 1.0, "bullet": 2.0, "special": 3.0}, "speed": 2.0, "track": 2, "timestamp": 2.7, "resourcePath": "EnemyPrefabs/Arrow Enemies/Bee/Bee Arrow"}, {"health": {"arrow": 1.0, "bullet": 2.0, "special": 3.0}, "speed": 2.0, "track": 2, "timestamp": 3.6, "resourcePath": "EnemyPrefabs/Arrow Enemies/Bee/Bee Arrow"}]}
+{
+  "index": 0,
+  "trackCount": 4,
+  "enemies": [
+    {
+      "health": {
+        "arrow": 0.0,
+        "bullet": 3.0,
+        "special": 0.0
+      },
+      "speed": 2.0,
+      "track": 0,
+      "timestamp": 2.0,
+      "resourcePath": "EnemyPrefabs/Bullet Enemies/Funky Bee/Funky Bee"
+    }
+  ]
+}

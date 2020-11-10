@@ -1,0 +1,28 @@
+{
+  "index": 0,
+  "trackCount": 4,
+  "enemies": [
+    {
+      "health": {
+        "arrow": 3.0,
+        "bullet": 0.0,
+        "special": 0.0
+      },
+      "speed": 2.0,
+      "track": 0,
+      "timestamp": 2.0,
+      "resourcePath": "EnemyPrefabs/Arrow Enemies/Bee/Bee Arrow"
+    },
+    {
+      "health": {
+        "arrow": 0.0,
+        "bullet": 3.0,
+        "special": 0.0
+      },
+      "speed": 2.0,
+      "track": 2,
+      "timestamp": 3.0,
+      "resourcePath": "EnemyPrefabs/Bullet Enemies/Funky Bee/Funky Bee"
+    }
+  ]
+}
