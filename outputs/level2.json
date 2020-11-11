@@ -1,28 +1,215 @@
 {
-  "index": 0,
-  "trackCount": 4,
-  "enemies": [
-    {
-      "health": {
-        "arrow": 3.0,
-        "bullet": 0.0,
-        "special": 0.0
-      },
-      "speed": 2.0,
-      "track": 0,
-      "timestamp": 2.0,
-      "resourcePath": "EnemyPrefabs/Arrow Enemies/Bee/Bee Arrow"
-    },
-    {
-      "health": {
-        "arrow": 0.0,
-        "bullet": 3.0,
-        "special": 0.0
-      },
-      "speed": 2.0,
-      "track": 2,
-      "timestamp": 3.0,
-      "resourcePath": "EnemyPrefabs/Bullet Enemies/Funky Bee/Funky Bee"
-    }
-  ]
+    "index": 0,
+    "trackCount": 4,
+    "enemies": [
+        {
+            "health": {
+                "arrow": 0.0,
+                "bullet": 2.0,
+                "special": 0.0
+            },
+            "speed": 1.0,
+            "track": 0,
+            "timestamp": 3.0,
+            "resourcePath": "EnemyPrefabs/Bullet Enemies/Neo Fly/Neo Fly"
+        },
+        {
+            "health": {
+                "arrow": 0.0,
+                "bullet": 2.0,
+                "special": 0.0
+            },
+            "speed": 1.0,
+            "track": 0,
+            "timestamp": 12.0,
+            "resourcePath": "EnemyPrefabs/Bullet Enemies/Magic Lady Bird/Magic Lady Bird"
+        },
+        {
+            "health": {
+                "arrow": 0.0,
+                "bullet": 2.0,
+                "special": 0.0
+            },
+            "speed": 1.0,
+            "track": 0,
+            "timestamp": 24.0,
+            "resourcePath": "EnemyPrefabs/Bullet Enemies/Neo Fly/Neo Fly"
+        },
+        {
+            "health": {
+                "arrow": 0.0,
+                "bullet": 3.0,
+                "special": 0.0
+            },
+            "speed": 1.5,
+            "track": 0,
+            "timestamp": 45.0,
+            "resourcePath": "EnemyPrefabs/Bullet Enemies/Magic Lady Bird/Magic Lady Bird"
+        },
+        {
+            "health": {
+                "arrow": 0.0,
+                "bullet": 2.0,
+                "special": 0.0
+            },
+            "speed": 1.0,
+            "track": 1,
+            "timestamp": 6.0,
+            "resourcePath": "EnemyPrefabs/Bullet Enemies/Magic Lady Bird/Magic Lady Bird"
+        },
+        {
+            "health": {
+                "arrow": 0.0,
+                "bullet": 2.0,
+                "special": 0.0
+            },
+            "speed": 1.0,
+            "track": 1,
+            "timestamp": 15.0,
+            "resourcePath": "EnemyPrefabs/Bullet Enemies/Neo Fly/Neo Fly"
+        },
+        {
+            "health": {
+                "arrow": 0.0,
+                "bullet": 2.0,
+                "special": 0.0
+            },
+            "speed": 1.0,
+            "track": 1,
+            "timestamp": 24.0,
+            "resourcePath": "EnemyPrefabs/Bullet Enemies/Funky Bee/Funky Bee"
+        },
+        {
+            "health": {
+                "arrow": 0.0,
+                "bullet": 3.0,
+                "special": 0.0
+            },
+            "speed": 1.5,
+            "track": 1,
+            "timestamp": 36.0,
+            "resourcePath": "EnemyPrefabs/Bullet Enemies/Neo Fly/Neo Fly"
+        },
+        {
+            "health": {
+                "arrow": 0.0,
+                "bullet": 3.0,
+                "special": 0.0
+            },
+            "speed": 1.5,
+            "track": 1,
+            "timestamp": 51.0,
+            "resourcePath": "EnemyPrefabs/Bullet Enemies/Neo Fly/Neo Fly"
+        },
+        {
+            "health": {
+                "arrow": 0.0,
+                "bullet": 3.0,
+                "special": 0.0
+            },
+            "speed": 1.5,
+            "track": 1,
+            "timestamp": 57.0,
+            "resourcePath": "EnemyPrefabs/Bullet Enemies/Neo Fly/Neo Fly"
+        },
+        {
+            "health": {
+                "arrow": 0.0,
+                "bullet": 2.0,
+                "special": 0.0
+            },
+            "speed": 1.0,
+            "track": 2,
+            "timestamp": 3.0,
+            "resourcePath": "EnemyPrefabs/Bullet Enemies/Funky Bee/Funky Bee"
+        },
+        {
+            "health": {
+                "arrow": 0.0,
+                "bullet": 2.0,
+                "special": 0.0
+            },
+            "speed": 1.0,
+            "track": 2,
+            "timestamp": 12.0,
+            "resourcePath": "EnemyPrefabs/Bullet Enemies/Funky Bee/Funky Bee"
+        },
+        {
+            "health": {
+                "arrow": 0.0,
+                "bullet": 2.0,
+                "special": 0.0
+            },
+            "speed": 1.0,
+            "track": 2,
+            "timestamp": 27.0,
+            "resourcePath": "EnemyPrefabs/Bullet Enemies/Magic Lady Bird/Magic Lady Bird"
+        },
+        {
+            "health": {
+                "arrow": 0.0,
+                "bullet": 2.0,
+                "special": 0.0
+            },
+            "speed": 1.0,
+            "track": 3,
+            "timestamp": 6.0,
+            "resourcePath": "EnemyPrefabs/Bullet Enemies/Magic Lady Bird/Magic Lady Bird"
+        },
+        {
+            "health": {
+                "arrow": 0.0,
+                "bullet": 2.0,
+                "special": 0.0
+            },
+            "speed": 1.0,
+            "track": 3,
+            "timestamp": 15.0,
+            "resourcePath": "EnemyPrefabs/Bullet Enemies/Funky Bee/Funky Bee"
+        },
+        {
+            "health": {
+                "arrow": 0.0,
+                "bullet": 2.0,
+                "special": 0.0
+            },
+            "speed": 1.0,
+            "track": 3,
+            "timestamp": 24.0,
+            "resourcePath": "EnemyPrefabs/Bullet Enemies/Neo Fly/Neo Fly"
+        },
+        {
+            "health": {
+                "arrow": 0.0,
+                "bullet": 3.0,
+                "special": 0.0
+            },
+            "speed": 1.5,
+            "track": 3,
+            "timestamp": 36.0,
+            "resourcePath": "EnemyPrefabs/Bullet Enemies/Funky Bee/Funky Bee"
+        },
+        {
+            "health": {
+                "arrow": 0.0,
+                "bullet": 3.0,
+                "special": 0.0
+            },
+            "speed": 1.5,
+            "track": 3,
+            "timestamp": 45.0,
+            "resourcePath": "EnemyPrefabs/Bullet Enemies/Funky Bee/Funky Bee"
+        },
+        {
+            "health": {
+                "arrow": 0.0,
+                "bullet": 3.0,
+                "special": 0.0
+            },
+            "speed": 1.5,
+            "track": 3,
+            "timestamp": 57.0,
+            "resourcePath": "EnemyPrefabs/Bullet Enemies/Magic Lady Bird/Magic Lady Bird"
+        }
+    ]
 }
