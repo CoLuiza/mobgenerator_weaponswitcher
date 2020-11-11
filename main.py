@@ -3,8 +3,8 @@ from mobgenerator.mobgenerator import MobGenerator
 
 
 def main():
-    mob_generator = MobGenerator("levels/level4.xlsx")
-    mob_generator.generate_file("level4.json")
+    mob_generator = MobGenerator("levels/level16.xlsx")
+    mob_generator.generate_file("level16.json")
     levels = LevelsJson("./outputs/*.json", "./final/levels.json")
 
 
