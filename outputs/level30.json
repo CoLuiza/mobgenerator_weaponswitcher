@@ -1,0 +1,611 @@
+{
+    "index": 29,
+    "trackCount": 4,
+    "enemies": [
+        {
+            "health": {
+                "arrow": 6.0,
+                "bullet": 4.0,
+                "special": 0.0
+            },
+            "speed": 0.9,
+            "track": 0,
+            "timestamp": 4.0,
+            "resourcePath": "EnemyPrefabs/Arrow Enemies/Fly/Fly Arrow"
+        },
+        {
+            "health": {
+                "arrow": 8.0,
+                "bullet": 6.0,
+                "special": 0.0
+            },
+            "speed": 0.8,
+            "track": 0,
+            "timestamp": 12.0,
+            "resourcePath": "EnemyPrefabs/Arrow Enemies/Dragonfly/Dragonfly Arrow"
+        },
+        {
+            "health": {
+                "arrow": 12.0,
+                "bullet": 0.0,
+                "special": 0.0
+            },
+            "speed": 1.0,
+            "track": 0,
+            "timestamp": 24.0,
+            "resourcePath": "EnemyPrefabs/Arrow Enemies/Lady Bird/Lady Bird Arrow"
+        },
+        {
+            "health": {
+                "arrow": 0.0,
+                "bullet": 8.0,
+                "special": 6.0
+            },
+            "speed": 0.8,
+            "track": 0,
+            "timestamp": 36.0,
+            "resourcePath": "EnemyPrefabs/Bullet Enemies/Magic Lady Bird/Magic Lady Bird"
+        },
+        {
+            "health": {
+                "arrow": 0.0,
+                "bullet": 0.0,
+                "special": 12.0
+            },
+            "speed": 1.0,
+            "track": 0,
+            "timestamp": 48.0,
+            "resourcePath": "EnemyPrefabs/Special Enemies/Steampunk Fly/Steampunk Fly"
+        },
+        {
+            "health": {
+                "arrow": 12.0,
+                "bullet": 0.0,
+                "special": 0.0
+            },
+            "speed": 1.0,
+            "track": 0,
+            "timestamp": 60.0,
+            "resourcePath": "EnemyPrefabs/Arrow Enemies/Lady Bird/Lady Bird Arrow"
+        },
+        {
+            "health": {
+                "arrow": 6.0,
+                "bullet": 4.0,
+                "special": 0.0
+            },
+            "speed": 0.9,
+            "track": 0,
+            "timestamp": 72.0,
+            "resourcePath": "EnemyPrefabs/Arrow Enemies/Fly/Fly Arrow"
+        },
+        {
+            "health": {
+                "arrow": 12.0,
+                "bullet": 0.0,
+                "special": 0.0
+            },
+            "speed": 1.0,
+            "track": 0,
+            "timestamp": 88.0,
+            "resourcePath": "EnemyPrefabs/Arrow Enemies/Lady Bird/Lady Bird Arrow"
+        },
+        {
+            "health": {
+                "arrow": 8.0,
+                "bullet": 6.0,
+                "special": 0.0
+            },
+            "speed": 0.8,
+            "track": 0,
+            "timestamp": 92.0,
+            "resourcePath": "EnemyPrefabs/Arrow Enemies/Dragonfly/Dragonfly Arrow"
+        },
+        {
+            "health": {
+                "arrow": 0.0,
+                "bullet": 12.0,
+                "special": 0.0
+            },
+            "speed": 1.0,
+            "track": 0,
+            "timestamp": 104.0,
+            "resourcePath": "EnemyPrefabs/Bullet Enemies/Neo Fly/Neo Fly"
+        },
+        {
+            "health": {
+                "arrow": 6.0,
+                "bullet": 4.0,
+                "special": 0.0
+            },
+            "speed": 0.9,
+            "track": 0,
+            "timestamp": 108.0,
+            "resourcePath": "EnemyPrefabs/Arrow Enemies/Fly/Fly Arrow"
+        },
+        {
+            "health": {
+                "arrow": 0.0,
+                "bullet": 0.0,
+                "special": 12.0
+            },
+            "speed": 1.0,
+            "track": 0,
+            "timestamp": 120.0,
+            "resourcePath": "EnemyPrefabs/Special Enemies/Steampunk Fly/Steampunk Fly"
+        },
+        {
+            "health": {
+                "arrow": 8.0,
+                "bullet": 6.0,
+                "special": 0.0
+            },
+            "speed": 0.8,
+            "track": 0,
+            "timestamp": 124.0,
+            "resourcePath": "EnemyPrefabs/Arrow Enemies/Dragonfly/Dragonfly Arrow"
+        },
+        {
+            "health": {
+                "arrow": 0.0,
+                "bullet": 6.0,
+                "special": 4.0
+            },
+            "speed": 0.9,
+            "track": 1,
+            "timestamp": 4.0,
+            "resourcePath": "EnemyPrefabs/Bullet Enemies/Funky Bee/Funky Bee"
+        },
+        {
+            "health": {
+                "arrow": 0.0,
+                "bullet": 0.0,
+                "special": 12.0
+            },
+            "speed": 1.0,
+            "track": 1,
+            "timestamp": 16.0,
+            "resourcePath": "EnemyPrefabs/Special Enemies/Steampunk Fly/Steampunk Fly"
+        },
+        {
+            "health": {
+                "arrow": 8.0,
+                "bullet": 6.0,
+                "special": 0.0
+            },
+            "speed": 0.8,
+            "track": 1,
+            "timestamp": 24.0,
+            "resourcePath": "EnemyPrefabs/Arrow Enemies/Dragonfly/Dragonfly Arrow"
+        },
+        {
+            "health": {
+                "arrow": 0.0,
+                "bullet": 0.0,
+                "special": 12.0
+            },
+            "speed": 1.0,
+            "track": 1,
+            "timestamp": 32.0,
+            "resourcePath": "EnemyPrefabs/Special Enemies/Steampunk Fly/Steampunk Fly"
+        },
+        {
+            "health": {
+                "arrow": 0.0,
+                "bullet": 8.0,
+                "special": 6.0
+            },
+            "speed": 0.8,
+            "track": 1,
+            "timestamp": 44.0,
+            "resourcePath": "EnemyPrefabs/Bullet Enemies/Magic Lady Bird/Magic Lady Bird"
+        },
+        {
+            "health": {
+                "arrow": 4.0,
+                "bullet": 0.0,
+                "special": 6.0
+            },
+            "speed": 0.9,
+            "track": 1,
+            "timestamp": 52.0,
+            "resourcePath": "EnemyPrefabs/Special Enemies/Halloween Bee/Halloween Bee"
+        },
+        {
+            "health": {
+                "arrow": 0.0,
+                "bullet": 6.0,
+                "special": 4.0
+            },
+            "speed": 0.9,
+            "track": 1,
+            "timestamp": 64.0,
+            "resourcePath": "EnemyPrefabs/Bullet Enemies/Funky Bee/Funky Bee"
+        },
+        {
+            "health": {
+                "arrow": 0.0,
+                "bullet": 0.0,
+                "special": 12.0
+            },
+            "speed": 1.0,
+            "track": 1,
+            "timestamp": 76.0,
+            "resourcePath": "EnemyPrefabs/Special Enemies/Steampunk Fly/Steampunk Fly"
+        },
+        {
+            "health": {
+                "arrow": 12.0,
+                "bullet": 0.0,
+                "special": 0.0
+            },
+            "speed": 1.0,
+            "track": 1,
+            "timestamp": 88.0,
+            "resourcePath": "EnemyPrefabs/Arrow Enemies/Lady Bird/Lady Bird Arrow"
+        },
+        {
+            "health": {
+                "arrow": 0.0,
+                "bullet": 8.0,
+                "special": 6.0
+            },
+            "speed": 0.8,
+            "track": 1,
+            "timestamp": 92.0,
+            "resourcePath": "EnemyPrefabs/Bullet Enemies/Magic Lady Bird/Magic Lady Bird"
+        },
+        {
+            "health": {
+                "arrow": 0.0,
+                "bullet": 12.0,
+                "special": 0.0
+            },
+            "speed": 1.0,
+            "track": 1,
+            "timestamp": 104.0,
+            "resourcePath": "EnemyPrefabs/Bullet Enemies/Neo Fly/Neo Fly"
+        },
+        {
+            "health": {
+                "arrow": 0.0,
+                "bullet": 6.0,
+                "special": 4.0
+            },
+            "speed": 0.9,
+            "track": 1,
+            "timestamp": 108.0,
+            "resourcePath": "EnemyPrefabs/Bullet Enemies/Funky Bee/Funky Bee"
+        },
+        {
+            "health": {
+                "arrow": 0.0,
+                "bullet": 0.0,
+                "special": 12.0
+            },
+            "speed": 1.0,
+            "track": 1,
+            "timestamp": 120.0,
+            "resourcePath": "EnemyPrefabs/Special Enemies/Steampunk Fly/Steampunk Fly"
+        },
+        {
+            "health": {
+                "arrow": 4.0,
+                "bullet": 0.0,
+                "special": 6.0
+            },
+            "speed": 0.9,
+            "track": 1,
+            "timestamp": 124.0,
+            "resourcePath": "EnemyPrefabs/Special Enemies/Halloween Bee/Halloween Bee"
+        },
+        {
+            "health": {
+                "arrow": 4.0,
+                "bullet": 0.0,
+                "special": 6.0
+            },
+            "speed": 0.9,
+            "track": 2,
+            "timestamp": 8.0,
+            "resourcePath": "EnemyPrefabs/Special Enemies/Halloween Bee/Halloween Bee"
+        },
+        {
+            "health": {
+                "arrow": 0.0,
+                "bullet": 12.0,
+                "special": 0.0
+            },
+            "speed": 1.0,
+            "track": 2,
+            "timestamp": 20.0,
+            "resourcePath": "EnemyPrefabs/Bullet Enemies/Neo Fly/Neo Fly"
+        },
+        {
+            "health": {
+                "arrow": 0.0,
+                "bullet": 6.0,
+                "special": 4.0
+            },
+            "speed": 0.9,
+            "track": 2,
+            "timestamp": 28.0,
+            "resourcePath": "EnemyPrefabs/Bullet Enemies/Funky Bee/Funky Bee"
+        },
+        {
+            "health": {
+                "arrow": 0.0,
+                "bullet": 12.0,
+                "special": 0.0
+            },
+            "speed": 1.0,
+            "track": 2,
+            "timestamp": 36.0,
+            "resourcePath": "EnemyPrefabs/Bullet Enemies/Neo Fly/Neo Fly"
+        },
+        {
+            "health": {
+                "arrow": 0.0,
+                "bullet": 6.0,
+                "special": 4.0
+            },
+            "speed": 0.9,
+            "track": 2,
+            "timestamp": 48.0,
+            "resourcePath": "EnemyPrefabs/Bullet Enemies/Funky Bee/Funky Bee"
+        },
+        {
+            "health": {
+                "arrow": 8.0,
+                "bullet": 6.0,
+                "special": 0.0
+            },
+            "speed": 0.8,
+            "track": 2,
+            "timestamp": 60.0,
+            "resourcePath": "EnemyPrefabs/Arrow Enemies/Dragonfly/Dragonfly Arrow"
+        },
+        {
+            "health": {
+                "arrow": 0.0,
+                "bullet": 12.0,
+                "special": 0.0
+            },
+            "speed": 1.0,
+            "track": 2,
+            "timestamp": 72.0,
+            "resourcePath": "EnemyPrefabs/Bullet Enemies/Neo Fly/Neo Fly"
+        },
+        {
+            "health": {
+                "arrow": 12.0,
+                "bullet": 0.0,
+                "special": 0.0
+            },
+            "speed": 1.0,
+            "track": 2,
+            "timestamp": 88.0,
+            "resourcePath": "EnemyPrefabs/Arrow Enemies/Lady Bird/Lady Bird Arrow"
+        },
+        {
+            "health": {
+                "arrow": 8.0,
+                "bullet": 6.0,
+                "special": 0.0
+            },
+            "speed": 0.8,
+            "track": 2,
+            "timestamp": 92.0,
+            "resourcePath": "EnemyPrefabs/Arrow Enemies/Dragonfly/Dragonfly Arrow"
+        },
+        {
+            "health": {
+                "arrow": 0.0,
+                "bullet": 12.0,
+                "special": 0.0
+            },
+            "speed": 1.0,
+            "track": 2,
+            "timestamp": 104.0,
+            "resourcePath": "EnemyPrefabs/Bullet Enemies/Neo Fly/Neo Fly"
+        },
+        {
+            "health": {
+                "arrow": 4.0,
+                "bullet": 0.0,
+                "special": 6.0
+            },
+            "speed": 0.9,
+            "track": 2,
+            "timestamp": 108.0,
+            "resourcePath": "EnemyPrefabs/Special Enemies/Halloween Bee/Halloween Bee"
+        },
+        {
+            "health": {
+                "arrow": 0.0,
+                "bullet": 0.0,
+                "special": 12.0
+            },
+            "speed": 1.0,
+            "track": 2,
+            "timestamp": 120.0,
+            "resourcePath": "EnemyPrefabs/Special Enemies/Steampunk Fly/Steampunk Fly"
+        },
+        {
+            "health": {
+                "arrow": 6.0,
+                "bullet": 4.0,
+                "special": 0.0
+            },
+            "speed": 0.9,
+            "track": 2,
+            "timestamp": 124.0,
+            "resourcePath": "EnemyPrefabs/Arrow Enemies/Fly/Fly Arrow"
+        },
+        {
+            "health": {
+                "arrow": 6.0,
+                "bullet": 4.0,
+                "special": 0.0
+            },
+            "speed": 0.9,
+            "track": 3,
+            "timestamp": 4.0,
+            "resourcePath": "EnemyPrefabs/Arrow Enemies/Fly/Fly Arrow"
+        },
+        {
+            "health": {
+                "arrow": 0.0,
+                "bullet": 8.0,
+                "special": 6.0
+            },
+            "speed": 0.8,
+            "track": 3,
+            "timestamp": 12.0,
+            "resourcePath": "EnemyPrefabs/Bullet Enemies/Magic Lady Bird/Magic Lady Bird"
+        },
+        {
+            "health": {
+                "arrow": 4.0,
+                "bullet": 0.0,
+                "special": 6.0
+            },
+            "speed": 0.9,
+            "track": 3,
+            "timestamp": 20.0,
+            "resourcePath": "EnemyPrefabs/Special Enemies/Halloween Bee/Halloween Bee"
+        },
+        {
+            "health": {
+                "arrow": 6.0,
+                "bullet": 4.0,
+                "special": 0.0
+            },
+            "speed": 0.9,
+            "track": 3,
+            "timestamp": 28.0,
+            "resourcePath": "EnemyPrefabs/Arrow Enemies/Fly/Fly Arrow"
+        },
+        {
+            "health": {
+                "arrow": 12.0,
+                "bullet": 0.0,
+                "special": 0.0
+            },
+            "speed": 1.0,
+            "track": 3,
+            "timestamp": 36.0,
+            "resourcePath": "EnemyPrefabs/Arrow Enemies/Lady Bird/Lady Bird Arrow"
+        },
+        {
+            "health": {
+                "arrow": 4.0,
+                "bullet": 0.0,
+                "special": 6.0
+            },
+            "speed": 0.9,
+            "track": 3,
+            "timestamp": 44.0,
+            "resourcePath": "EnemyPrefabs/Special Enemies/Halloween Bee/Halloween Bee"
+        },
+        {
+            "health": {
+                "arrow": 0.0,
+                "bullet": 12.0,
+                "special": 0.0
+            },
+            "speed": 1.0,
+            "track": 3,
+            "timestamp": 56.0,
+            "resourcePath": "EnemyPrefabs/Bullet Enemies/Neo Fly/Neo Fly"
+        },
+        {
+            "health": {
+                "arrow": 6.0,
+                "bullet": 4.0,
+                "special": 0.0
+            },
+            "speed": 0.9,
+            "track": 3,
+            "timestamp": 64.0,
+            "resourcePath": "EnemyPrefabs/Arrow Enemies/Fly/Fly Arrow"
+        },
+        {
+            "health": {
+                "arrow": 12.0,
+                "bullet": 0.0,
+                "special": 0.0
+            },
+            "speed": 1.0,
+            "track": 3,
+            "timestamp": 76.0,
+            "resourcePath": "EnemyPrefabs/Arrow Enemies/Lady Bird/Lady Bird Arrow"
+        },
+        {
+            "health": {
+                "arrow": 12.0,
+                "bullet": 0.0,
+                "special": 0.0
+            },
+            "speed": 1.0,
+            "track": 3,
+            "timestamp": 88.0,
+            "resourcePath": "EnemyPrefabs/Arrow Enemies/Lady Bird/Lady Bird Arrow"
+        },
+        {
+            "health": {
+                "arrow": 0.0,
+                "bullet": 8.0,
+                "special": 6.0
+            },
+            "speed": 0.8,
+            "track": 3,
+            "timestamp": 92.0,
+            "resourcePath": "EnemyPrefabs/Bullet Enemies/Magic Lady Bird/Magic Lady Bird"
+        },
+        {
+            "health": {
+                "arrow": 0.0,
+                "bullet": 12.0,
+                "special": 0.0
+            },
+            "speed": 1.0,
+            "track": 3,
+            "timestamp": 104.0,
+            "resourcePath": "EnemyPrefabs/Bullet Enemies/Neo Fly/Neo Fly"
+        },
+        {
+            "health": {
+                "arrow": 6.0,
+                "bullet": 4.0,
+                "special": 0.0
+            },
+            "speed": 0.9,
+            "track": 3,
+            "timestamp": 108.0,
+            "resourcePath": "EnemyPrefabs/Arrow Enemies/Fly/Fly Arrow"
+        },
+        {
+            "health": {
+                "arrow": 0.0,
+                "bullet": 0.0,
+                "special": 12.0
+            },
+            "speed": 1.0,
+            "track": 3,
+            "timestamp": 120.0,
+            "resourcePath": "EnemyPrefabs/Special Enemies/Steampunk Fly/Steampunk Fly"
+        },
+        {
+            "health": {
+                "arrow": 0.0,
+                "bullet": 8.0,
+                "special": 6.0
+            },
+            "speed": 0.8,
+            "track": 3,
+            "timestamp": 124.0,
+            "resourcePath": "EnemyPrefabs/Bullet Enemies/Magic Lady Bird/Magic Lady Bird"
+        }
+    ]
+}

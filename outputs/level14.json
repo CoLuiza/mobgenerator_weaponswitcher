@@ -39,7 +39,7 @@
             "health": {
                 "arrow": 7.0,
                 "bullet": 0.0,
-                "special": 2.0
+                "special": 0.0
             },
             "speed": 0.9,
             "track": 0,
@@ -50,7 +50,7 @@
             "health": {
                 "arrow": 0.0,
                 "bullet": 7.0,
-                "special": 2.0
+                "special": 0.0
             },
             "speed": 0.9,
             "track": 0,
@@ -81,7 +81,7 @@
         },
         {
             "health": {
-                "arrow": 2.0,
+                "arrow": 0.0,
                 "bullet": 0.0,
                 "special": 7.0
             },
@@ -114,7 +114,7 @@
         },
         {
             "health": {
-                "arrow": 2.0,
+                "arrow": 0.0,
                 "bullet": 0.0,
                 "special": 7.0
             },
@@ -147,7 +147,7 @@
         },
         {
             "health": {
-                "arrow": 2.0,
+                "arrow": 0.0,
                 "bullet": 0.0,
                 "special": 7.0
             },
@@ -171,7 +171,7 @@
             "health": {
                 "arrow": 7.0,
                 "bullet": 0.0,
-                "special": 2.0
+                "special": 0.0
             },
             "speed": 0.9,
             "track": 2,
@@ -180,7 +180,7 @@
         },
         {
             "health": {
-                "arrow": 2.0,
+                "arrow": 0.0,
                 "bullet": 0.0,
                 "special": 7.0
             },
@@ -215,7 +215,7 @@
             "health": {
                 "arrow": 7.0,
                 "bullet": 0.0,
-                "special": 2.0
+                "special": 0.0
             },
             "speed": 0.9,
             "track": 2,
@@ -226,7 +226,7 @@
             "health": {
                 "arrow": 0.0,
                 "bullet": 7.0,
-                "special": 2.0
+                "special": 0.0
             },
             "speed": 0.9,
             "track": 2,
@@ -237,7 +237,7 @@
             "health": {
                 "arrow": 0.0,
                 "bullet": 7.0,
-                "special": 2.0
+                "special": 0.0
             },
             "speed": 0.9,
             "track": 2,
@@ -259,7 +259,7 @@
             "health": {
                 "arrow": 0.0,
                 "bullet": 7.0,
-                "special": 2.0
+                "special": 0.0
             },
             "speed": 0.9,
             "track": 3,
@@ -270,7 +270,7 @@
             "health": {
                 "arrow": 7.0,
                 "bullet": 0.0,
-                "special": 2.0
+                "special": 0.0
             },
             "speed": 0.9,
             "track": 3,
@@ -290,7 +290,7 @@
         },
         {
             "health": {
-                "arrow": 2.0,
+                "arrow": 0.0,
                 "bullet": 0.0,
                 "special": 7.0
             },

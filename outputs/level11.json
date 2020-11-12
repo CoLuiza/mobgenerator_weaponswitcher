@@ -6,7 +6,7 @@
             "health": {
                 "arrow": 5.0,
                 "bullet": 0.0,
-                "special": 1.0
+                "special": 0.0
             },
             "speed": 1.2,
             "track": 0,
@@ -17,7 +17,7 @@
             "health": {
                 "arrow": 0.0,
                 "bullet": 5.0,
-                "special": 1.0
+                "special": 0.0
             },
             "speed": 1.2,
             "track": 0,
@@ -26,7 +26,7 @@
         },
         {
             "health": {
-                "arrow": 1.0,
+                "arrow": 0.0,
                 "bullet": 5.0,
                 "special": 0.0
             },
@@ -37,7 +37,7 @@
         },
         {
             "health": {
-                "arrow": 2.0,
+                "arrow": 0.0,
                 "bullet": 6.0,
                 "special": 0.0
             },
@@ -48,7 +48,7 @@
         },
         {
             "health": {
-                "arrow": 1.0,
+                "arrow": 0.0,
                 "bullet": 5.0,
                 "special": 0.0
             },
@@ -61,7 +61,7 @@
             "health": {
                 "arrow": 0.0,
                 "bullet": 5.0,
-                "special": 1.0
+                "special": 0.0
             },
             "speed": 1.2,
             "track": 0,
@@ -83,7 +83,7 @@
             "health": {
                 "arrow": 0.0,
                 "bullet": 5.0,
-                "special": 1.0
+                "special": 0.0
             },
             "speed": 1.2,
             "track": 0,
@@ -93,7 +93,7 @@
         {
             "health": {
                 "arrow": 6.0,
-                "bullet": 2.0,
+                "bullet": 1.0,
                 "special": 0.0
             },
             "speed": 0.8,
@@ -103,7 +103,7 @@
         },
         {
             "health": {
-                "arrow": 1.0,
+                "arrow": 0.0,
                 "bullet": 5.0,
                 "special": 0.0
             },
@@ -127,7 +127,7 @@
             "health": {
                 "arrow": 5.0,
                 "bullet": 0.0,
-                "special": 1.0
+                "special": 0.0
             },
             "speed": 1.2,
             "track": 1,
@@ -148,7 +148,7 @@
         {
             "health": {
                 "arrow": 0.0,
-                "bullet": 2.0,
+                "bullet": 1.0,
                 "special": 6.0
             },
             "speed": 0.8,
@@ -158,7 +158,7 @@
         },
         {
             "health": {
-                "arrow": 2.0,
+                "arrow": 0.0,
                 "bullet": 6.0,
                 "special": 0.0
             },
@@ -169,7 +169,7 @@
         },
         {
             "health": {
-                "arrow": 1.0,
+                "arrow": 0.0,
                 "bullet": 5.0,
                 "special": 0.0
             },
@@ -180,7 +180,7 @@
         },
         {
             "health": {
-                "arrow": 1.0,
+                "arrow": 0.0,
                 "bullet": 0.0,
                 "special": 5.0
             },
@@ -191,7 +191,7 @@
         },
         {
             "health": {
-                "arrow": 1.0,
+                "arrow": 0.0,
                 "bullet": 0.0,
                 "special": 5.0
             },
@@ -202,7 +202,7 @@
         },
         {
             "health": {
-                "arrow": 1.0,
+                "arrow": 0.0,
                 "bullet": 5.0,
                 "special": 0.0
             },
@@ -214,7 +214,7 @@
         {
             "health": {
                 "arrow": 6.0,
-                "bullet": 2.0,
+                "bullet": 1.0,
                 "special": 0.0
             },
             "speed": 0.8,
@@ -226,7 +226,7 @@
             "health": {
                 "arrow": 0.0,
                 "bullet": 5.0,
-                "special": 1.0
+                "special": 0.0
             },
             "speed": 1.2,
             "track": 2,
@@ -246,7 +246,7 @@
         },
         {
             "health": {
-                "arrow": 1.0,
+                "arrow": 0.0,
                 "bullet": 0.0,
                 "special": 5.0
             },
@@ -257,7 +257,7 @@
         },
         {
             "health": {
-                "arrow": 2.0,
+                "arrow": 0.0,
                 "bullet": 6.0,
                 "special": 0.0
             },
@@ -269,7 +269,7 @@
         {
             "health": {
                 "arrow": 0.0,
-                "bullet": 2.0,
+                "bullet": 1.0,
                 "special": 6.0
             },
             "speed": 0.8,
@@ -281,7 +281,7 @@
             "health": {
                 "arrow": 0.0,
                 "bullet": 5.0,
-                "special": 1.0
+                "special": 0.0
             },
             "speed": 1.2,
             "track": 3,
@@ -302,7 +302,7 @@
         {
             "health": {
                 "arrow": 6.0,
-                "bullet": 2.0,
+                "bullet": 1.0,
                 "special": 0.0
             },
             "speed": 0.8,
@@ -313,7 +313,7 @@
         {
             "health": {
                 "arrow": 0.0,
-                "bullet": 2.0,
+                "bullet": 1.0,
                 "special": 6.0
             },
             "speed": 0.8,
@@ -325,7 +325,7 @@
             "health": {
                 "arrow": 5.0,
                 "bullet": 0.0,
-                "special": 1.0
+                "special": 0.0
             },
             "speed": 1.2,
             "track": 3,
@@ -346,7 +346,7 @@
         {
             "health": {
                 "arrow": 0.0,
-                "bullet": 2.0,
+                "bullet": 1.0,
                 "special": 6.0
             },
             "speed": 0.8,
@@ -358,7 +358,7 @@
             "health": {
                 "arrow": 5.0,
                 "bullet": 0.0,
-                "special": 1.0
+                "special": 0.0
             },
             "speed": 1.2,
             "track": 3,
