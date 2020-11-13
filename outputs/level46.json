@@ -1,0 +1,732 @@
+{
+    "index": 45,
+    "trackCount": 4,
+    "enemies": [
+        {
+            "health": {
+                "arrow": 4.0,
+                "bullet": 0.0,
+                "special": 0.0
+            },
+            "speed": 2.5,
+            "track": 0,
+            "timestamp": 4.0,
+            "resourcePath": "EnemyPrefabs/Arrow Enemies/Bee/Bee Arrow"
+        },
+        {
+            "health": {
+                "arrow": 0.0,
+                "bullet": 4.0,
+                "special": 0.0
+            },
+            "speed": 2.5,
+            "track": 0,
+            "timestamp": 8.0,
+            "resourcePath": "EnemyPrefabs/Special Enemies/Halloween Bee/Halloween Bee"
+        },
+        {
+            "health": {
+                "arrow": 0.0,
+                "bullet": 0.0,
+                "special": 4.0
+            },
+            "speed": 2.5,
+            "track": 0,
+            "timestamp": 12.0,
+            "resourcePath": "EnemyPrefabs/Bullet Enemies/Funky Bee/Funky Bee"
+        },
+        {
+            "health": {
+                "arrow": 2.0,
+                "bullet": 0.0,
+                "special": 0.0
+            },
+            "speed": 3.0,
+            "track": 0,
+            "timestamp": 16.0,
+            "resourcePath": "EnemyPrefabs/Arrow Enemies/Dragonfly/Dragonfly Arrow"
+        },
+        {
+            "health": {
+                "arrow": 0.0,
+                "bullet": 4.0,
+                "special": 0.0
+            },
+            "speed": 2.5,
+            "track": 0,
+            "timestamp": 20.0,
+            "resourcePath": "EnemyPrefabs/Special Enemies/Halloween Bee/Halloween Bee"
+        },
+        {
+            "health": {
+                "arrow": 0.0,
+                "bullet": 0.0,
+                "special": 4.0
+            },
+            "speed": 2.5,
+            "track": 0,
+            "timestamp": 24.0,
+            "resourcePath": "EnemyPrefabs/Bullet Enemies/Funky Bee/Funky Bee"
+        },
+        {
+            "health": {
+                "arrow": 2.0,
+                "bullet": 0.0,
+                "special": 0.0
+            },
+            "speed": 3.0,
+            "track": 0,
+            "timestamp": 28.0,
+            "resourcePath": "EnemyPrefabs/Arrow Enemies/Dragonfly/Dragonfly Arrow"
+        },
+        {
+            "health": {
+                "arrow": 4.0,
+                "bullet": 0.0,
+                "special": 0.0
+            },
+            "speed": 2.5,
+            "track": 0,
+            "timestamp": 32.0,
+            "resourcePath": "EnemyPrefabs/Arrow Enemies/Bee/Bee Arrow"
+        },
+        {
+            "health": {
+                "arrow": 4.0,
+                "bullet": 0.0,
+                "special": 0.0
+            },
+            "speed": 2.5,
+            "track": 0,
+            "timestamp": 36.0,
+            "resourcePath": "EnemyPrefabs/Arrow Enemies/Bee/Bee Arrow"
+        },
+        {
+            "health": {
+                "arrow": 0.0,
+                "bullet": 0.0,
+                "special": 4.0
+            },
+            "speed": 2.5,
+            "track": 0,
+            "timestamp": 40.0,
+            "resourcePath": "EnemyPrefabs/Bullet Enemies/Funky Bee/Funky Bee"
+        },
+        {
+            "health": {
+                "arrow": 0.0,
+                "bullet": 4.0,
+                "special": 0.0
+            },
+            "speed": 2.5,
+            "track": 0,
+            "timestamp": 44.0,
+            "resourcePath": "EnemyPrefabs/Special Enemies/Halloween Bee/Halloween Bee"
+        },
+        {
+            "health": {
+                "arrow": 4.0,
+                "bullet": 0.0,
+                "special": 0.0
+            },
+            "speed": 2.5,
+            "track": 0,
+            "timestamp": 48.0,
+            "resourcePath": "EnemyPrefabs/Arrow Enemies/Bee/Bee Arrow"
+        },
+        {
+            "health": {
+                "arrow": 0.0,
+                "bullet": 0.0,
+                "special": 4.0
+            },
+            "speed": 2.5,
+            "track": 0,
+            "timestamp": 52.0,
+            "resourcePath": "EnemyPrefabs/Bullet Enemies/Funky Bee/Funky Bee"
+        },
+        {
+            "health": {
+                "arrow": 0.0,
+                "bullet": 0.0,
+                "special": 4.0
+            },
+            "speed": 2.5,
+            "track": 0,
+            "timestamp": 56.0,
+            "resourcePath": "EnemyPrefabs/Bullet Enemies/Funky Bee/Funky Bee"
+        },
+        {
+            "health": {
+                "arrow": 2.0,
+                "bullet": 0.0,
+                "special": 0.0
+            },
+            "speed": 3.0,
+            "track": 0,
+            "timestamp": 60.0,
+            "resourcePath": "EnemyPrefabs/Arrow Enemies/Dragonfly/Dragonfly Arrow"
+        },
+        {
+            "health": {
+                "arrow": 0.0,
+                "bullet": 0.0,
+                "special": 4.0
+            },
+            "speed": 2.5,
+            "track": 0,
+            "timestamp": 64.0,
+            "resourcePath": "EnemyPrefabs/Bullet Enemies/Funky Bee/Funky Bee"
+        },
+        {
+            "health": {
+                "arrow": 4.0,
+                "bullet": 0.0,
+                "special": 0.0
+            },
+            "speed": 2.5,
+            "track": 0,
+            "timestamp": 68.0,
+            "resourcePath": "EnemyPrefabs/Arrow Enemies/Bee/Bee Arrow"
+        },
+        {
+            "health": {
+                "arrow": 4.0,
+                "bullet": 0.0,
+                "special": 0.0
+            },
+            "speed": 2.5,
+            "track": 1,
+            "timestamp": 4.0,
+            "resourcePath": "EnemyPrefabs/Arrow Enemies/Bee/Bee Arrow"
+        },
+        {
+            "health": {
+                "arrow": 0.0,
+                "bullet": 0.0,
+                "special": 4.0
+            },
+            "speed": 2.5,
+            "track": 1,
+            "timestamp": 8.0,
+            "resourcePath": "EnemyPrefabs/Bullet Enemies/Funky Bee/Funky Bee"
+        },
+        {
+            "health": {
+                "arrow": 2.0,
+                "bullet": 0.0,
+                "special": 0.0
+            },
+            "speed": 3.0,
+            "track": 1,
+            "timestamp": 12.0,
+            "resourcePath": "EnemyPrefabs/Arrow Enemies/Dragonfly/Dragonfly Arrow"
+        },
+        {
+            "health": {
+                "arrow": 0.0,
+                "bullet": 0.0,
+                "special": 4.0
+            },
+            "speed": 2.5,
+            "track": 1,
+            "timestamp": 16.0,
+            "resourcePath": "EnemyPrefabs/Bullet Enemies/Funky Bee/Funky Bee"
+        },
+        {
+            "health": {
+                "arrow": 0.0,
+                "bullet": 4.0,
+                "special": 0.0
+            },
+            "speed": 2.5,
+            "track": 1,
+            "timestamp": 20.0,
+            "resourcePath": "EnemyPrefabs/Special Enemies/Halloween Bee/Halloween Bee"
+        },
+        {
+            "health": {
+                "arrow": 4.0,
+                "bullet": 0.0,
+                "special": 0.0
+            },
+            "speed": 2.5,
+            "track": 1,
+            "timestamp": 24.0,
+            "resourcePath": "EnemyPrefabs/Arrow Enemies/Bee/Bee Arrow"
+        },
+        {
+            "health": {
+                "arrow": 0.0,
+                "bullet": 0.0,
+                "special": 4.0
+            },
+            "speed": 2.5,
+            "track": 1,
+            "timestamp": 28.0,
+            "resourcePath": "EnemyPrefabs/Bullet Enemies/Funky Bee/Funky Bee"
+        },
+        {
+            "health": {
+                "arrow": 4.0,
+                "bullet": 0.0,
+                "special": 0.0
+            },
+            "speed": 2.5,
+            "track": 1,
+            "timestamp": 32.0,
+            "resourcePath": "EnemyPrefabs/Arrow Enemies/Bee/Bee Arrow"
+        },
+        {
+            "health": {
+                "arrow": 0.0,
+                "bullet": 4.0,
+                "special": 0.0
+            },
+            "speed": 2.5,
+            "track": 1,
+            "timestamp": 36.0,
+            "resourcePath": "EnemyPrefabs/Special Enemies/Halloween Bee/Halloween Bee"
+        },
+        {
+            "health": {
+                "arrow": 2.0,
+                "bullet": 0.0,
+                "special": 0.0
+            },
+            "speed": 3.0,
+            "track": 1,
+            "timestamp": 40.0,
+            "resourcePath": "EnemyPrefabs/Arrow Enemies/Dragonfly/Dragonfly Arrow"
+        },
+        {
+            "health": {
+                "arrow": 4.0,
+                "bullet": 0.0,
+                "special": 0.0
+            },
+            "speed": 2.5,
+            "track": 1,
+            "timestamp": 44.0,
+            "resourcePath": "EnemyPrefabs/Arrow Enemies/Bee/Bee Arrow"
+        },
+        {
+            "health": {
+                "arrow": 2.0,
+                "bullet": 0.0,
+                "special": 0.0
+            },
+            "speed": 3.0,
+            "track": 1,
+            "timestamp": 48.0,
+            "resourcePath": "EnemyPrefabs/Arrow Enemies/Dragonfly/Dragonfly Arrow"
+        },
+        {
+            "health": {
+                "arrow": 0.0,
+                "bullet": 4.0,
+                "special": 0.0
+            },
+            "speed": 2.5,
+            "track": 1,
+            "timestamp": 52.0,
+            "resourcePath": "EnemyPrefabs/Special Enemies/Halloween Bee/Halloween Bee"
+        },
+        {
+            "health": {
+                "arrow": 4.0,
+                "bullet": 0.0,
+                "special": 0.0
+            },
+            "speed": 2.5,
+            "track": 1,
+            "timestamp": 56.0,
+            "resourcePath": "EnemyPrefabs/Arrow Enemies/Bee/Bee Arrow"
+        },
+        {
+            "health": {
+                "arrow": 2.0,
+                "bullet": 0.0,
+                "special": 0.0
+            },
+            "speed": 3.0,
+            "track": 1,
+            "timestamp": 60.0,
+            "resourcePath": "EnemyPrefabs/Arrow Enemies/Dragonfly/Dragonfly Arrow"
+        },
+        {
+            "health": {
+                "arrow": 0.0,
+                "bullet": 4.0,
+                "special": 0.0
+            },
+            "speed": 2.5,
+            "track": 1,
+            "timestamp": 64.0,
+            "resourcePath": "EnemyPrefabs/Special Enemies/Halloween Bee/Halloween Bee"
+        },
+        {
+            "health": {
+                "arrow": 0.0,
+                "bullet": 4.0,
+                "special": 0.0
+            },
+            "speed": 2.5,
+            "track": 2,
+            "timestamp": 4.0,
+            "resourcePath": "EnemyPrefabs/Special Enemies/Halloween Bee/Halloween Bee"
+        },
+        {
+            "health": {
+                "arrow": 4.0,
+                "bullet": 0.0,
+                "special": 0.0
+            },
+            "speed": 2.5,
+            "track": 2,
+            "timestamp": 8.0,
+            "resourcePath": "EnemyPrefabs/Arrow Enemies/Bee/Bee Arrow"
+        },
+        {
+            "health": {
+                "arrow": 0.0,
+                "bullet": 4.0,
+                "special": 0.0
+            },
+            "speed": 2.5,
+            "track": 2,
+            "timestamp": 12.0,
+            "resourcePath": "EnemyPrefabs/Special Enemies/Halloween Bee/Halloween Bee"
+        },
+        {
+            "health": {
+                "arrow": 0.0,
+                "bullet": 4.0,
+                "special": 0.0
+            },
+            "speed": 2.5,
+            "track": 2,
+            "timestamp": 16.0,
+            "resourcePath": "EnemyPrefabs/Special Enemies/Halloween Bee/Halloween Bee"
+        },
+        {
+            "health": {
+                "arrow": 0.0,
+                "bullet": 0.0,
+                "special": 4.0
+            },
+            "speed": 2.5,
+            "track": 2,
+            "timestamp": 20.0,
+            "resourcePath": "EnemyPrefabs/Bullet Enemies/Funky Bee/Funky Bee"
+        },
+        {
+            "health": {
+                "arrow": 0.0,
+                "bullet": 4.0,
+                "special": 0.0
+            },
+            "speed": 2.5,
+            "track": 2,
+            "timestamp": 24.0,
+            "resourcePath": "EnemyPrefabs/Special Enemies/Halloween Bee/Halloween Bee"
+        },
+        {
+            "health": {
+                "arrow": 2.0,
+                "bullet": 0.0,
+                "special": 0.0
+            },
+            "speed": 3.0,
+            "track": 2,
+            "timestamp": 28.0,
+            "resourcePath": "EnemyPrefabs/Arrow Enemies/Dragonfly/Dragonfly Arrow"
+        },
+        {
+            "health": {
+                "arrow": 0.0,
+                "bullet": 4.0,
+                "special": 0.0
+            },
+            "speed": 2.5,
+            "track": 2,
+            "timestamp": 32.0,
+            "resourcePath": "EnemyPrefabs/Special Enemies/Halloween Bee/Halloween Bee"
+        },
+        {
+            "health": {
+                "arrow": 2.0,
+                "bullet": 0.0,
+                "special": 0.0
+            },
+            "speed": 3.0,
+            "track": 2,
+            "timestamp": 36.0,
+            "resourcePath": "EnemyPrefabs/Arrow Enemies/Dragonfly/Dragonfly Arrow"
+        },
+        {
+            "health": {
+                "arrow": 4.0,
+                "bullet": 0.0,
+                "special": 0.0
+            },
+            "speed": 2.5,
+            "track": 2,
+            "timestamp": 40.0,
+            "resourcePath": "EnemyPrefabs/Arrow Enemies/Bee/Bee Arrow"
+        },
+        {
+            "health": {
+                "arrow": 0.0,
+                "bullet": 4.0,
+                "special": 0.0
+            },
+            "speed": 2.5,
+            "track": 2,
+            "timestamp": 44.0,
+            "resourcePath": "EnemyPrefabs/Special Enemies/Halloween Bee/Halloween Bee"
+        },
+        {
+            "health": {
+                "arrow": 0.0,
+                "bullet": 4.0,
+                "special": 0.0
+            },
+            "speed": 2.5,
+            "track": 2,
+            "timestamp": 48.0,
+            "resourcePath": "EnemyPrefabs/Special Enemies/Halloween Bee/Halloween Bee"
+        },
+        {
+            "health": {
+                "arrow": 0.0,
+                "bullet": 0.0,
+                "special": 4.0
+            },
+            "speed": 2.5,
+            "track": 2,
+            "timestamp": 52.0,
+            "resourcePath": "EnemyPrefabs/Bullet Enemies/Funky Bee/Funky Bee"
+        },
+        {
+            "health": {
+                "arrow": 4.0,
+                "bullet": 0.0,
+                "special": 0.0
+            },
+            "speed": 2.5,
+            "track": 2,
+            "timestamp": 56.0,
+            "resourcePath": "EnemyPrefabs/Arrow Enemies/Bee/Bee Arrow"
+        },
+        {
+            "health": {
+                "arrow": 2.0,
+                "bullet": 0.0,
+                "special": 0.0
+            },
+            "speed": 3.0,
+            "track": 2,
+            "timestamp": 60.0,
+            "resourcePath": "EnemyPrefabs/Arrow Enemies/Dragonfly/Dragonfly Arrow"
+        },
+        {
+            "health": {
+                "arrow": 4.0,
+                "bullet": 0.0,
+                "special": 0.0
+            },
+            "speed": 2.5,
+            "track": 2,
+            "timestamp": 64.0,
+            "resourcePath": "EnemyPrefabs/Arrow Enemies/Bee/Bee Arrow"
+        },
+        {
+            "health": {
+                "arrow": 2.0,
+                "bullet": 0.0,
+                "special": 0.0
+            },
+            "speed": 3.0,
+            "track": 2,
+            "timestamp": 68.0,
+            "resourcePath": "EnemyPrefabs/Arrow Enemies/Dragonfly/Dragonfly Arrow"
+        },
+        {
+            "health": {
+                "arrow": 0.0,
+                "bullet": 0.0,
+                "special": 4.0
+            },
+            "speed": 2.5,
+            "track": 3,
+            "timestamp": 4.0,
+            "resourcePath": "EnemyPrefabs/Bullet Enemies/Funky Bee/Funky Bee"
+        },
+        {
+            "health": {
+                "arrow": 4.0,
+                "bullet": 0.0,
+                "special": 0.0
+            },
+            "speed": 2.5,
+            "track": 3,
+            "timestamp": 8.0,
+            "resourcePath": "EnemyPrefabs/Arrow Enemies/Bee/Bee Arrow"
+        },
+        {
+            "health": {
+                "arrow": 0.0,
+                "bullet": 0.0,
+                "special": 4.0
+            },
+            "speed": 2.5,
+            "track": 3,
+            "timestamp": 12.0,
+            "resourcePath": "EnemyPrefabs/Bullet Enemies/Funky Bee/Funky Bee"
+        },
+        {
+            "health": {
+                "arrow": 4.0,
+                "bullet": 0.0,
+                "special": 0.0
+            },
+            "speed": 2.5,
+            "track": 3,
+            "timestamp": 16.0,
+            "resourcePath": "EnemyPrefabs/Arrow Enemies/Bee/Bee Arrow"
+        },
+        {
+            "health": {
+                "arrow": 4.0,
+                "bullet": 0.0,
+                "special": 0.0
+            },
+            "speed": 2.5,
+            "track": 3,
+            "timestamp": 20.0,
+            "resourcePath": "EnemyPrefabs/Arrow Enemies/Bee/Bee Arrow"
+        },
+        {
+            "health": {
+                "arrow": 0.0,
+                "bullet": 0.0,
+                "special": 4.0
+            },
+            "speed": 2.5,
+            "track": 3,
+            "timestamp": 24.0,
+            "resourcePath": "EnemyPrefabs/Bullet Enemies/Funky Bee/Funky Bee"
+        },
+        {
+            "health": {
+                "arrow": 4.0,
+                "bullet": 0.0,
+                "special": 0.0
+            },
+            "speed": 2.5,
+            "track": 3,
+            "timestamp": 28.0,
+            "resourcePath": "EnemyPrefabs/Arrow Enemies/Bee/Bee Arrow"
+        },
+        {
+            "health": {
+                "arrow": 0.0,
+                "bullet": 0.0,
+                "special": 4.0
+            },
+            "speed": 2.5,
+            "track": 3,
+            "timestamp": 32.0,
+            "resourcePath": "EnemyPrefabs/Bullet Enemies/Funky Bee/Funky Bee"
+        },
+        {
+            "health": {
+                "arrow": 0.0,
+                "bullet": 0.0,
+                "special": 4.0
+            },
+            "speed": 2.5,
+            "track": 3,
+            "timestamp": 36.0,
+            "resourcePath": "EnemyPrefabs/Bullet Enemies/Funky Bee/Funky Bee"
+        },
+        {
+            "health": {
+                "arrow": 0.0,
+                "bullet": 4.0,
+                "special": 0.0
+            },
+            "speed": 2.5,
+            "track": 3,
+            "timestamp": 40.0,
+            "resourcePath": "EnemyPrefabs/Special Enemies/Halloween Bee/Halloween Bee"
+        },
+        {
+            "health": {
+                "arrow": 0.0,
+                "bullet": 0.0,
+                "special": 4.0
+            },
+            "speed": 2.5,
+            "track": 3,
+            "timestamp": 44.0,
+            "resourcePath": "EnemyPrefabs/Bullet Enemies/Funky Bee/Funky Bee"
+        },
+        {
+            "health": {
+                "arrow": 0.0,
+                "bullet": 0.0,
+                "special": 4.0
+            },
+            "speed": 2.5,
+            "track": 3,
+            "timestamp": 48.0,
+            "resourcePath": "EnemyPrefabs/Bullet Enemies/Funky Bee/Funky Bee"
+        },
+        {
+            "health": {
+                "arrow": 2.0,
+                "bullet": 0.0,
+                "special": 0.0
+            },
+            "speed": 3.0,
+            "track": 3,
+            "timestamp": 52.0,
+            "resourcePath": "EnemyPrefabs/Arrow Enemies/Dragonfly/Dragonfly Arrow"
+        },
+        {
+            "health": {
+                "arrow": 0.0,
+                "bullet": 4.0,
+                "special": 0.0
+            },
+            "speed": 2.5,
+            "track": 3,
+            "timestamp": 56.0,
+            "resourcePath": "EnemyPrefabs/Special Enemies/Halloween Bee/Halloween Bee"
+        },
+        {
+            "health": {
+                "arrow": 2.0,
+                "bullet": 0.0,
+                "special": 0.0
+            },
+            "speed": 3.0,
+            "track": 3,
+            "timestamp": 60.0,
+            "resourcePath": "EnemyPrefabs/Arrow Enemies/Dragonfly/Dragonfly Arrow"
+        },
+        {
+            "health": {
+                "arrow": 0.0,
+                "bullet": 0.0,
+                "special": 4.0
+            },
+            "speed": 2.5,
+            "track": 3,
+            "timestamp": 64.0,
+            "resourcePath": "EnemyPrefabs/Bullet Enemies/Funky Bee/Funky Bee"
+        }
+    ]
+}
